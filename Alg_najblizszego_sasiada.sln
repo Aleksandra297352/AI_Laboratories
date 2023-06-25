@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alg_najblizszego_sasiada", "Alg_najblizszego_sasiada\Alg_najblizszego_sasiada.csproj", "{49C415D7-AD24-4F90-8473-9A970EA3CCCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Annealing", "Annealing\Annealing.csproj", "{8E9267D5-B198-4CF0-BF2D-D36BA595322E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorytm_Astar", "Algorytm_Astar\Algorytm_Astar.csproj", "{A441A936-1A48-4C43-9CF9-3D673CCA8817}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleMaps", "GoogleMaps\GoogleMaps.csproj", "{3C278406-E53C-4D3C-BB59-7E506FB32873}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorytn_MinMax", "Algorytn_MinMax\Algorytn_MinMax.csproj", "{A064F413-E529-434F-9EB5-A2B980AA42CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfa_Beta", "Alfa_Beta\Alfa_Beta.csproj", "{EDA9316C-9852-4B95-9237-1F1E5CDFD14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C415D7-AD24-4F90-8473-9A970EA3CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C415D7-AD24-4F90-8473-9A970EA3CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C415D7-AD24-4F90-8473-9A970EA3CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C415D7-AD24-4F90-8473-9A970EA3CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9267D5-B198-4CF0-BF2D-D36BA595322E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9267D5-B198-4CF0-BF2D-D36BA595322E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9267D5-B198-4CF0-BF2D-D36BA595322E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9267D5-B198-4CF0-BF2D-D36BA595322E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A441A936-1A48-4C43-9CF9-3D673CCA8817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A441A936-1A48-4C43-9CF9-3D673CCA8817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A441A936-1A48-4C43-9CF9-3D673CCA8817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A441A936-1A48-4C43-9CF9-3D673CCA8817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C278406-E53C-4D3C-BB59-7E506FB32873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C278406-E53C-4D3C-BB59-7E506FB32873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C278406-E53C-4D3C-BB59-7E506FB32873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C278406-E53C-4D3C-BB59-7E506FB32873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A064F413-E529-434F-9EB5-A2B980AA42CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A064F413-E529-434F-9EB5-A2B980AA42CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A064F413-E529-434F-9EB5-A2B980AA42CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A064F413-E529-434F-9EB5-A2B980AA42CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA9316C-9852-4B95-9237-1F1E5CDFD14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA9316C-9852-4B95-9237-1F1E5CDFD14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA9316C-9852-4B95-9237-1F1E5CDFD14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA9316C-9852-4B95-9237-1F1E5CDFD14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C1D2D4-74E3-4594-A1A5-233FA6A97B50}
+	EndGlobalSection
+EndGlobal
